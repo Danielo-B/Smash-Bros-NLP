@@ -1,1 +1,2 @@
-# Smash-Bros-NLP
+# Smash-Bros-NLP Project
+Coming soon!
